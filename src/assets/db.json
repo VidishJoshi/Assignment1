@@ -1,0 +1,31 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "name": "Vidish Joshi",
+      "email": "vidish2707@gmail.com",
+      "birthdate": "2000-07-27",
+      "active": true,
+      "gender": "male",
+      "subject": "Maths"
+    },
+    {
+      "id": 2,
+      "name": "Ishani Joshi",
+      "email": "abcd@gmail.com",
+      "birthdate": "2013-08-23",
+      "active": false,
+      "gender": "female",
+      "subject": "Science"
+    },
+    {
+      "id": 3,
+      "name": "Hina Joshi",
+      "email": "yut@yahoo.com",
+      "birthdate": "1978-08-07",
+      "active": false,
+      "gender": "female",
+      "subject": "Maths"
+    }
+  ]
+}
